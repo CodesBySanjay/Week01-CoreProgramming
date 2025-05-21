@@ -6,17 +6,17 @@ Welcome to **Week 1** of our Java journey! This repo lays down the fundamentals 
 
 ## 📚 Table of Contents
 
-- [🧾 Overview](#overview)
-- [📌 Topics Covered](#topics-covered)
+- 🧾 [Overview](#overview)
+- 📌 [Topics Covered](#topics-covered)
   - [Day 1: Introduction to Java](#day-1-introduction-to-java)
   - [Day 2: Variables, Data Types, and Operators](#day-2-variables-data-types-and-operators)
   - [Day 3: Control Flow](#day-3-control-flow)
   - [Day 4: Arrays](#day-4-arrays)
   - [Day 5: Strings](#day-5-strings)
   - [Day 6: Functions Methods](#day-6-functions-methods)
-- [💻 Prerequisites](#prerequisites)
-- [📁 How to Use This Repo](#how-to-use-this-repo)
-- [🔭 Next Steps](#next-steps)
+- 💻 [Prerequisites](#prerequisites)
+- 📁 [How to Use This Repo](#how-to-use-this-repo)
+- 🔭 [Next Steps](#next-steps)
 
 ---
 
