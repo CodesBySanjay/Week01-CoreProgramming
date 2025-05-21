@@ -1,6 +1,6 @@
 # Week 01: Core Programming in Java
 
-Welcome to **Week 1** of our Java journey! This repo lays down the fundamentals — from writing your first program to mastering arrays, strings, and functions.
+Welcome to **Week 1** of our Java journey! This repo lays down the fundamentals — from writing our first program to mastering arrays, strings, and functions.
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to **Week 1** of our Java journey! This repo lays down the fundamentals 
 
 ## Overview
 
-Week 1 is all about mastering the **core building blocks of Java**. By the end of this week, you’ll understand Java's syntax, control structures, data types, and how to organize code using methods.
+Week 1 is all about mastering the **core building blocks of Java**. By the end of this week, we'll understand Java's syntax, control structures, data types, and how to organize code using methods.
 
 ---
 
@@ -85,14 +85,14 @@ Week 1 is all about mastering the **core building blocks of Java**. By the end o
 
 ## How to Use This Repo
 
-- Navigate to each **day’s folder** to explore that day’s topic
-- Inside, you’ll find example programs, notes, and exercises
+- Navigate to each **day’s branch** to explore that day’s topic
+- Inside, you’ll find example programs, submitted assignments
 - Run the code, tweak it, break it, fix it — learn by doing!
 
 ---
 
 ## Next Steps
 
-After finishing Week 1, you’ll be ready to explore more advanced topics like Object-Oriented Programming, Collections, and Exception Handling in upcoming weeks.
+After finishing Week 1, we'll be ready to explore more advanced topics like Object-Oriented Programming, Collections, and Exception Handling in upcoming weeks.
 
 > 🚀 Keep practicing, and never stop building.
